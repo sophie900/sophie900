@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I'm Sophie 👋
+
+[![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophie900&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie900&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sophie900/sophie900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
