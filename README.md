@@ -5,14 +5,12 @@ Welcome to my corner of the internet! I'm an interdisciplinary creative who enjo
 - 🔭 I’m currently working on [**picChef**](https://github.com/sophie900/picChef), a tool that generates curated recipes from a simple image.
 - 🌱 I’m currently learning **full-stack development**.
 - 🤝 I’m looking to collaborate on crafting **meaningful, impactful technology**.
-- 💬 Ask me about art history, music, or anything creative!
-- 😄 Pronouns: she/her
+- 💬 Ask me about art, music, or anything creative!
 - 💡 Fun fact: I have **grapheme-color synesthesia** (associating words with colors)!
 
 
 ## Github Stats
 [![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophie900&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie900&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
