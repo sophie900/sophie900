@@ -1,6 +1,6 @@
 # Hey, I'm Sophie 👋
 
-Welcome to my corner of the internet! I'm an interdisciplinary creative who enjoys learning new things each day.
+Welcome to my corner of the internet!
 
 - 🔭 I’m currently working on [**picChef**](https://github.com/sophie900/picChef), a tool that generates curated recipes from a simple image.
 - 🌱 I’m currently learning **full-stack development**.
@@ -13,7 +13,7 @@ Welcome to my corner of the internet! I'm an interdisciplinary creative who enjo
 [![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophie900&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie900&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,6 +46,7 @@ Welcome to my corner of the internet! I'm an interdisciplinary creative who enjo
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-rong/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophie.rong@gmail.com)
+-->
 
 <!--
 **sophie900/sophie900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
