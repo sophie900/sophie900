@@ -2,11 +2,11 @@
 
 Welcome to my corner of the internet!
 
-- 🔭 I’m currently working on [**picChef**](https://github.com/sophie900/picChef), a tool that generates curated recipes from a simple image.
-- 🌱 I’m currently learning **full-stack development**.
-- 🤝 I’m looking to collaborate on crafting **meaningful, impactful technology**.
-- 💬 Ask me about art, music, or anything creative!
-- 💡 Fun fact: I have **grapheme-color synesthesia** (associating words with colors)!
+- Currently, I'm developing & designing my [**personal website**](https://sophierong.com)!
+- I'm also working on [**picChef**](https://github.com/sophie900/picChef), a tool that generates curated recipes from a simple image.
+- I'm currently learning **full-stack development**.
+- Looking to collaborate on **technology for good**.
+- Ask me about art, music, or anything creative!
 
 
 ## Github Stats
